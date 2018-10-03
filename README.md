@@ -19,3 +19,4 @@ Just [create a new issue](https://github.com/faheel/algos/issues/new "Create a n
 
 ## License
 This project is licensed under the terms of the [MIT license](LICENSE.md).
+#hacktoberfest :)
